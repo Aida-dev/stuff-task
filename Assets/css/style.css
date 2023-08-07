@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #343a40;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+.total-price{
+    font-size: 25px;
+    font-weight: 800;
+    text-align: right;
+}
+.day-table{
+    width: 100% !important;
+}
+.up{
+    max-width: 150px;
+    width: 100%;
+    margin: auto;
+}
+.up >a{
+    background-color:#343a40 ;
+    padding: 10px 20px !important;
+}
